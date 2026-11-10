@@ -4,9 +4,9 @@ root: intro
 format: jb-book
 parts:
 - chapters:
-  - url: https://nexushackweek.github.io/nexus-2027/index.html?jump_to=schedule   
+  - url: https://synapsehackweek.github.io/synapse-2027/index.html?jump_to=schedule   
     title: Schedule
-  - url: https://nexushackweek.github.io/nexus-2027/index.html?jump_to=team
+  - url: https://synapsehackweek.github.io/synapse-2027/index.html?jump_to=team
     title: Team
 - caption: Preparation
   chapters:
