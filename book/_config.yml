@@ -8,7 +8,7 @@ parse:
     hackweek_full: "SYNergy and Analysis across Platforms for Satellite Earth science"
     dates: "August 2 to 6, 2027"
     github_org_url: "https://github.com/SYNAPSEHackweek"
-    book_repo: "nexus-2027"
+    book_repo: "synapse-2027"
     website_url: "https://synapsehackweek.github.io/synapse-2027"
     jupyterhub_url: <a href="https://hub.cryointhecloud.com" target="_blank">https://hub.cryointhecloud.com</a>
     slack_workspace_url: <a href="https://cryospherecloud.slack.com/archives/C075ASE8Z8W" target="_blank">https://cryospherecloud.slack.com</a>
