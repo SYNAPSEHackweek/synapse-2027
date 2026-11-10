@@ -1,15 +1,15 @@
-title: NEXUS-2027 Hackweek
+title: SYNAPSE-2027 Hackweek
 author: OCB (content), UW/eScience Institute (template)
 logo: img/Nexus_logo.png
 only_build_toc_files: false
 parse:
   myst_substitutions:
-    hackweek: "NEXUS-2027 Hackweek"
-    hackweek_full: "NASA Earth data eXchange for mUlti-mission Synergy"
+    hackweek: "SYNAPSE-2027 Hackweek"
+    hackweek_full: "SYNergy and Analysis across Platforms for Satellite Earth science"
     dates: "August 2 to 6, 2027"
-    github_org_url: "https://github.com/NexusHackweek"
+    github_org_url: "https://github.com/SYNAPSEHackweek"
     book_repo: "nexus-2027"
-    website_url: "https://nexushackweek.github.io/nexus-2027"
+    website_url: "https://synapsehackweek.github.io/synapse-2027"
     jupyterhub_url: <a href="https://hub.cryointhecloud.com" target="_blank">https://hub.cryointhecloud.com</a>
     slack_workspace_url: <a href="https://cryospherecloud.slack.com/archives/C075ASE8Z8W" target="_blank">https://cryospherecloud.slack.com</a>
     contact_email: "anna.windledipaola@nasa.gov"
@@ -33,7 +33,7 @@ parse:
     https: null
     http: null
     mailto: null
-    nb: /nexus-2027/_sources/presentations/notebooks/{{path}}
+    nb: /synapse-2027/_sources/presentations/notebooks/{{path}}
   myst_links_external_new_tab: true
 execute:
   execute_notebooks: off
@@ -41,7 +41,7 @@ latex:
   latex_documents:
     targetname: book.tex
 repository:
-  url: "https://github.com/NexusHackweek/nexus-2027"
+  url: "https://github.com/SYNAPSEHackweek/synapse-2027"
   path_to_book: book
   branch: main
 bibtex_bibfiles:
