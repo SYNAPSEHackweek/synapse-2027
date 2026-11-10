@@ -1,12 +1,12 @@
-# NEXUS-2027 Data Hackweek
+# SYNAPSE-2027 Data Hackweek
 
-This the conent of the landing page and JupyterBook for the NEXUS-2027 Data Hackweek.
+This the conent of the landing page and JupyterBook for the SYNAPSE-2027 Data Hackweek.
 
 ![image](https://github.com/noaa-nwfsc/Hackweek-2024-book/assets/2545978/8f4eda29-eec2-4263-bc1f-600ef5567996)
 
 ## Users
 
-This repo is the source for our [website](https://nexushackweek.github.io/nexus-2027/). Go check it out!
+This repo is the source for our [website](https://SYNAPSEhackweek.github.io/synapse-2027/). Go check it out!
 
 ## Developers
 
