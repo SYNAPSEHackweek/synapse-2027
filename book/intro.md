@@ -1,7 +1,7 @@
-# NEXUS-2027 Hackweek 
+# SYNAPSE-2027 Hackweek 
 
 <p style="font-size: 1.2rem; margin-top: -10px;">
-  <strong>N</strong>ASA <strong>E</strong>arth data e<strong>X</strong>change for m<strong>U</strong>lti-mission <strong>S</strong>ynergy
+  <strong>SYN</strong>ergy and <strong>A</strong>nalysis across <strong>P</strong>latforms for <strong>S</strong>atellite <strong>E</strong>arth science
 </p>
 
 ![banner](img/pace-banner-1.png)
